@@ -1,1 +1,436 @@
-
+{
+  "casts": [
+    {
+      "name": "天使みいろ",
+      "comment": "新世界の神",
+      "atlas_no": 0,
+      "grid_idx": 0
+    },
+    {
+      "name": "ほしずみセイス",
+      "comment": "お洋服無限に買ってしまう…誰か私を止めて…",
+      "atlas_no": 0,
+      "grid_idx": 1
+    },
+    {
+      "name": "さにゅ＠Sunny",
+      "comment": "",
+      "atlas_no": 0,
+      "grid_idx": 2
+    },
+    {
+      "name": "slime3",
+      "comment": "こんすら～！可愛いすらいむだよ～！魅惑のウィスパーボイスで溶かしちゃうぞ♡",
+      "atlas_no": 0,
+      "grid_idx": 3
+    },
+    {
+      "name": "Atras",
+      "comment": "",
+      "atlas_no": 0,
+      "grid_idx": 4
+    },
+    {
+      "name": "佳境ひまり",
+      "comment": "お笑いとロック",
+      "atlas_no": 0,
+      "grid_idx": 5
+    },
+    {
+      "name": "レドムン／redmun",
+      "comment": "",
+      "atlas_no": 0,
+      "grid_idx": 6
+    },
+    {
+      "name": "蒔菜ココ-KOKO-",
+      "comment": "",
+      "atlas_no": 0,
+      "grid_idx": 7
+    },
+    {
+      "name": "eftihea（エフィー）",
+      "comment": "",
+      "atlas_no": 0,
+      "grid_idx": 8
+    },
+    {
+      "name": "＊朝凪のーも＊",
+      "comment": "インターネットをたゆたっている。ベニクラゲになりたい",
+      "atlas_no": 0,
+      "grid_idx": 9
+    },
+    {
+      "name": "かうみるく",
+      "comment": "",
+      "atlas_no": 0,
+      "grid_idx": 10
+    },
+    {
+      "name": "ちぃちゃん_Chikage",
+      "comment": "",
+      "atlas_no": 0,
+      "grid_idx": 11
+    },
+    {
+      "name": "白猫夏鬼（しらねこなつき）",
+      "comment": "楽しくお話ししたい(*ฅ́˘ฅ̀*)にゃ♡ ",
+      "atlas_no": 0,
+      "grid_idx": 12
+    },
+    {
+      "name": "ぺけれい",
+      "comment": "見つけたら溶かす",
+      "atlas_no": 0,
+      "grid_idx": 13
+    },
+    {
+      "name": "Haya10",
+      "comment": "",
+      "atlas_no": 0,
+      "grid_idx": 14
+    },
+    {
+      "name": "にゃんたろ",
+      "comment": "",
+      "atlas_no": 0,
+      "grid_idx": 15
+    },
+    {
+      "name": "かりおん",
+      "comment": "",
+      "atlas_no": 0,
+      "grid_idx": 16
+    },
+    {
+      "name": "蒼衣⁄Aoi",
+      "comment": "炎妃龍の青き炎を封じ込めた 脚用装備。その内には炎妃龍 の青き炎が封じられている。",
+      "atlas_no": 0,
+      "grid_idx": 17
+    },
+    {
+      "name": "名雪なゆ",
+      "comment": "",
+      "atlas_no": 1,
+      "grid_idx": 0
+    },
+    {
+      "name": "みにね（minine）",
+      "comment": "わたし、気づいたんです。マイクロビキニの改変もコックカワサキって言い切れば、恥ずかしくないんだって。",
+      "atlas_no": 1,
+      "grid_idx": 1
+    },
+    {
+      "name": "桃乃てぃな",
+      "comment": "呑んで騒いで楽しんでってやぁ〜♡",
+      "atlas_no": 1,
+      "grid_idx": 2
+    },
+    {
+      "name": "ALUCA_",
+      "comment": "舞夜ちゃんかわいい❤",
+      "atlas_no": 1,
+      "grid_idx": 3
+    },
+    {
+      "name": "名取 なの",
+      "comment": "トイレに出勤したら神様がいました。ゴットイレ。",
+      "atlas_no": 1,
+      "grid_idx": 4
+    },
+    {
+      "name": "Manononn",
+      "comment": "",
+      "atlas_no": 1,
+      "grid_idx": 5
+    },
+    {
+      "name": "ろろみroromi",
+      "comment": "レアキャラ",
+      "atlas_no": 1,
+      "grid_idx": 6
+    },
+    {
+      "name": "∗Norysio＠星織∗",
+      "comment": "",
+      "atlas_no": 1,
+      "grid_idx": 7
+    },
+    {
+      "name": "てら_tera-",
+      "comment": "やほ～！たのしくまいぺーすにすごそ～～～💜",
+      "atlas_no": 1,
+      "grid_idx": 8
+    },
+    {
+      "name": "るぐりあ",
+      "comment": "",
+      "atlas_no": 1,
+      "grid_idx": 9
+    },
+    {
+      "name": "safim -サフィム-",
+      "comment": "",
+      "atlas_no": 1,
+      "grid_idx": 10
+    },
+    {
+      "name": "風花もゆ",
+      "comment": "",
+      "atlas_no": 1,
+      "grid_idx": 11
+    },
+    {
+      "name": "畑乃だいず",
+      "comment": "お砂糖に求める条件　→　4コス　アーティファクトが出るたびランダム3点",
+      "atlas_no": 1,
+      "grid_idx": 12
+    },
+    {
+      "name": "イケスレ",
+      "comment": "",
+      "atlas_no": 1,
+      "grid_idx": 13
+    },
+    {
+      "name": "ゆにぃ。",
+      "comment": "",
+      "atlas_no": 1,
+      "grid_idx": 14
+    },
+    {
+      "name": "内隈ちなみ",
+      "comment": "",
+      "atlas_no": 1,
+      "grid_idx": 15
+    },
+    {
+      "name": "天羽 ねあ",
+      "comment": "バナナのナス、バナナス",
+      "atlas_no": 1,
+      "grid_idx": 16
+    },
+    {
+      "name": "Megane256",
+      "comment": "",
+      "atlas_no": 1,
+      "grid_idx": 17
+    },
+    {
+      "name": "chise_黒崎チセ",
+      "comment": "お手柔らかにお願いします🙌",
+      "atlas_no": 2,
+      "grid_idx": 0
+    },
+    {
+      "name": "LOVE OTOTSUKI",
+      "comment": "",
+      "atlas_no": 2,
+      "grid_idx": 1
+    },
+    {
+      "name": "音寝ココ",
+      "comment": "モルガナ楽しめたかなぁ〜っ？？？またきてねっ！",
+      "atlas_no": 2,
+      "grid_idx": 2
+    },
+    {
+      "name": "ときあめ",
+      "comment": "サメです🦈かぷかぷしちゃうぞ🦈",
+      "atlas_no": 2,
+      "grid_idx": 3
+    },
+    {
+      "name": "kiyosumi",
+      "comment": "",
+      "atlas_no": 2,
+      "grid_idx": 4
+    },
+    {
+      "name": "玄月マイヤ",
+      "comment": "おっきいお姉さんに悪戯されてみる？",
+      "atlas_no": 2,
+      "grid_idx": 5
+    },
+    {
+      "name": "霊柩ファントム",
+      "comment": "5月！……五月病になりそうだけどモルガナは楽しんでいきますよ～～～",
+      "atlas_no": 2,
+      "grid_idx": 6
+    },
+    {
+      "name": "itucake（いつけーき）",
+      "comment": "",
+      "atlas_no": 2,
+      "grid_idx": 7
+    },
+    {
+      "name": "ホワイト企業",
+      "comment": "ドラマ『シナントロープ』をよろしくお願いします。Amazonプライムで見れるよ🫵",
+      "atlas_no": 2,
+      "grid_idx": 8
+    },
+    {
+      "name": "ひらくぅ。",
+      "comment": "最近、LOLにはまってます",
+      "atlas_no": 2,
+      "grid_idx": 9
+    },
+    {
+      "name": "九重しの",
+      "comment": "",
+      "atlas_no": 2,
+      "grid_idx": 10
+    },
+    {
+      "name": "マルコ。",
+      "comment": "",
+      "atlas_no": 2,
+      "grid_idx": 11
+    },
+    {
+      "name": "水煙 らず",
+      "comment": "Morgana清楚担当",
+      "atlas_no": 2,
+      "grid_idx": 12
+    },
+    {
+      "name": "吉田ささめ",
+      "comment": "鮫が大好きなささめですよ～🦈",
+      "atlas_no": 2,
+      "grid_idx": 13
+    },
+    {
+      "name": "dan-tyo",
+      "comment": "んちょです💛あなたをとろとろに甘やかしちゃう・・・かも？",
+      "atlas_no": 2,
+      "grid_idx": 14
+    },
+    {
+      "name": "りゅ～ず",
+      "comment": "",
+      "atlas_no": 2,
+      "grid_idx": 15
+    },
+    {
+      "name": "海月ばじ",
+      "comment": "ばじばじしてきたぁ〜！！",
+      "atlas_no": 2,
+      "grid_idx": 16
+    },
+    {
+      "name": "arushiro",
+      "comment": "クールぶりたいドジっ子お姉さん",
+      "atlas_no": 2,
+      "grid_idx": 17
+    },
+    {
+      "name": "xeksy（ゼクシィ）",
+      "comment": "嘘が下手すぎて人狼できない系女子",
+      "atlas_no": 3,
+      "grid_idx": 0
+    },
+    {
+      "name": "フィーネ_feine",
+      "comment": "たくさんのかわいいをお届けします！",
+      "atlas_no": 3,
+      "grid_idx": 1
+    },
+    {
+      "name": "Cielଳ",
+      "comment": "",
+      "atlas_no": 3,
+      "grid_idx": 2
+    },
+    {
+      "name": "はくと兎",
+      "comment": "",
+      "atlas_no": 3,
+      "grid_idx": 3
+    },
+    {
+      "name": "€cho",
+      "comment": "",
+      "atlas_no": 3,
+      "grid_idx": 4
+    },
+    {
+      "name": "ミソティア",
+      "comment": "いちゃイベに客で遊びに行ってリビングで喘ぎ散らかしてたら声大きすぎて親にバレました。",
+      "atlas_no": 3,
+      "grid_idx": 5
+    },
+    {
+      "name": "た～し～",
+      "comment": "今夜もあなたとご一緒させてください",
+      "atlas_no": 3,
+      "grid_idx": 6
+    },
+    {
+      "name": "えりえり",
+      "comment": "「前に出ます」「前に出ます」「損傷甚大」「助けてください」「助かりました」「次もよろしく」",
+      "atlas_no": 3,
+      "grid_idx": 7
+    },
+    {
+      "name": "シアン -shian-",
+      "comment": "ぜひともよろしくお願いしますね！",
+      "atlas_no": 3,
+      "grid_idx": 8
+    },
+    {
+      "name": "潤海かな",
+      "comment": "",
+      "atlas_no": 3,
+      "grid_idx": 9
+    },
+    {
+      "name": "護砕よーじょ",
+      "comment": "履いてます",
+      "atlas_no": 3,
+      "grid_idx": 10
+    },
+    {
+      "name": "Bear-EL-loco",
+      "comment": "tarkovはいいゾ",
+      "atlas_no": 3,
+      "grid_idx": 11
+    },
+    {
+      "name": "みみみどり",
+      "comment": "最近外国圏の方とV睡したんですけど、「もうおきるね」って言いたいときなんて言えばいいのかわからなかったので「Im sleep end.」って言いました。通じました。",
+      "atlas_no": 3,
+      "grid_idx": 12
+    },
+    {
+      "name": "音羽ネオン",
+      "comment": "生粋の関西人 26.4/13ﾃﾞﾋﾞｭ~ 同期トリオ shino3ﾁｬ クウﾁｬをよろしくね！",
+      "atlas_no": 3,
+      "grid_idx": 13
+    },
+    {
+      "name": "Shino_3",
+      "comment": "26.4/13初出勤！同期のクウさんとネオンﾁｬもよろしくなのです！",
+      "atlas_no": 3,
+      "grid_idx": 14
+    },
+    {
+      "name": "クウ_ただのきつね",
+      "comment": "26/4/13初出勤となります～　同期のしのの(Shino_3)とネオンちゃんはとってもかわいいのでおススメですよ～",
+      "atlas_no": 3,
+      "grid_idx": 15
+    },
+    {
+      "name": "槇島さや",
+      "comment": "",
+      "atlas_no": 3,
+      "grid_idx": 16
+    },
+    {
+      "name": "鈴珠ちぃ",
+      "comment": "あなたと甘いひと時をすごしたいなっ♪",
+      "atlas_no": 3,
+      "grid_idx": 17
+    }
+  ]
+}
