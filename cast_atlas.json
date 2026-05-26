@@ -254,7 +254,7 @@
     },
     {
       "name": "霊柩ファントム",
-      "comment": "5月！……五月病になりそうだけどモルガナは楽しんでいきますよ～～～",
+      "comment": "今日はいつもの水色のドレスで！",
       "atlas_no": 2,
       "grid_idx": 6
     },
@@ -427,16 +427,22 @@
       "grid_idx": 16
     },
     {
-      "name": "鈴珠ちぃ",
-      "comment": "あなたと甘いひと時をすごしたいなっ♪",
+      "name": "lσler",
+      "comment": "",
       "atlas_no": 3,
       "grid_idx": 17
+    },
+    {
+      "name": "鈴珠ちぃ",
+      "comment": "あなたと甘いひと時をすごしたいなっ♪",
+      "atlas_no": 4,
+      "grid_idx": 0
     },
     {
       "name": "きょうか_",
       "comment": "にゃん！",
       "atlas_no": 4,
-      "grid_idx": 0
+      "grid_idx": 1
     }
   ]
 }
