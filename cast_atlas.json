@@ -421,28 +421,34 @@
       "grid_idx": 15
     },
     {
-      "name": "槇島さや",
-      "comment": "最近FH6にハマってます！",
+      "name": "ぽん！！",
+      "comment": "",
       "atlas_no": 3,
       "grid_idx": 16
     },
     {
-      "name": "lσler",
-      "comment": "",
+      "name": "槇島さや",
+      "comment": "最近FH6にハマってます！",
       "atlas_no": 3,
       "grid_idx": 17
+    },
+    {
+      "name": "lσler",
+      "comment": "",
+      "atlas_no": 4,
+      "grid_idx": 0
     },
     {
       "name": "鈴珠ちぃ",
       "comment": "あなたと甘いひと時をすごしたいなっ♪",
       "atlas_no": 4,
-      "grid_idx": 0
+      "grid_idx": 1
     },
     {
       "name": "きょうか_",
       "comment": "にゃん！",
       "atlas_no": 4,
-      "grid_idx": 1
+      "grid_idx": 2
     }
   ]
 }
