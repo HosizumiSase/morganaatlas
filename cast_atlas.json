@@ -449,6 +449,12 @@
       "comment": "にゃん！",
       "atlas_no": 4,
       "grid_idx": 2
+    },
+    {
+      "name": "Exia_えくしあ",
+      "comment": "午前０時の鐘【コール】が鳴るまで",
+      "atlas_no": 4,
+      "grid_idx": 3
     }
   ]
 }
