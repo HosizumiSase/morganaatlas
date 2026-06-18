@@ -319,142 +319,148 @@
       "grid_idx": 16
     },
     {
-      "name": "arushiro",
-      "comment": "クールぶりたいドジっ子お姉さん",
+      "name": "れのるた",
+      "comment": "",
       "atlas_no": 2,
       "grid_idx": 17
+    },
+    {
+      "name": "arushiro",
+      "comment": "クールぶりたいドジっ子お姉さん",
+      "atlas_no": 3,
+      "grid_idx": 0
     },
     {
       "name": "xeksy（ゼクシィ）",
       "comment": "嘘が下手すぎて人狼できない系女子",
       "atlas_no": 3,
-      "grid_idx": 0
+      "grid_idx": 1
     },
     {
       "name": "フィーネ_feine",
       "comment": "たくさんのかわいいをお届けします！",
       "atlas_no": 3,
-      "grid_idx": 1
+      "grid_idx": 2
     },
     {
       "name": "Cielଳ",
       "comment": "",
       "atlas_no": 3,
-      "grid_idx": 2
+      "grid_idx": 3
     },
     {
       "name": "はくと兎",
       "comment": "",
       "atlas_no": 3,
-      "grid_idx": 3
+      "grid_idx": 4
     },
     {
       "name": "€cho",
       "comment": "",
       "atlas_no": 3,
-      "grid_idx": 4
+      "grid_idx": 5
     },
     {
       "name": "ミソティア",
       "comment": "FH6買いました。モンスタートラックでレースをぶち壊すお仕事をしています。",
       "atlas_no": 3,
-      "grid_idx": 5
+      "grid_idx": 6
     },
     {
       "name": "た～し～",
       "comment": "今夜もあなたとご一緒させてください",
       "atlas_no": 3,
-      "grid_idx": 6
+      "grid_idx": 7
     },
     {
       "name": "えりえり",
       "comment": "「前に出ます」「前に出ます」「損傷甚大」「助けてください」「助かりました」「次もよろしく」",
       "atlas_no": 3,
-      "grid_idx": 7
+      "grid_idx": 8
     },
     {
       "name": "シアン -shian-",
       "comment": "ぜひともよろしくお願いしますね！",
       "atlas_no": 3,
-      "grid_idx": 8
+      "grid_idx": 9
     },
     {
       "name": "潤海かな",
       "comment": "",
       "atlas_no": 3,
-      "grid_idx": 9
+      "grid_idx": 10
     },
     {
       "name": "護砕よーじょ",
       "comment": "履いてます",
       "atlas_no": 3,
-      "grid_idx": 10
+      "grid_idx": 11
     },
     {
       "name": "Bear-EL-loco",
       "comment": "黒豆茶美味しい☆",
       "atlas_no": 3,
-      "grid_idx": 11
+      "grid_idx": 12
     },
     {
       "name": "みみみどり",
       "comment": "最近外国圏の方とV睡したんですけど、「もうおきるね」って言いたいときなんて言えばいいのかわからなかったので「Im sleep end.」って言いました。通じました。",
       "atlas_no": 3,
-      "grid_idx": 12
+      "grid_idx": 13
     },
     {
       "name": "音羽ネオン",
       "comment": "生粋の関西人 26.4/13ﾃﾞﾋﾞｭ~ 同期トリオ shino3ﾁｬ クウﾁｬをよろしくね！",
       "atlas_no": 3,
-      "grid_idx": 13
+      "grid_idx": 14
     },
     {
       "name": "Shino_3",
-      "comment": "26.4/13初出勤！同期のクウさんとネオンﾁｬもよろしくなのです！",
+      "comment": "今夜もモルガナで乾杯、しよ？",
       "atlas_no": 3,
-      "grid_idx": 14
+      "grid_idx": 15
     },
     {
       "name": "クウ_ただのきつね",
       "comment": "26/4/13初出勤となります～　同期のしのの(Shino_3)とネオンちゃんはとってもかわいいのでおススメですよ～",
       "atlas_no": 3,
-      "grid_idx": 15
+      "grid_idx": 16
     },
     {
       "name": "ぽん！！",
       "comment": "",
       "atlas_no": 3,
-      "grid_idx": 16
+      "grid_idx": 17
     },
     {
       "name": "槇島さや",
       "comment": "最近FH6にハマってます！",
-      "atlas_no": 3,
-      "grid_idx": 17
+      "atlas_no": 4,
+      "grid_idx": 0
     },
     {
       "name": "lσler",
       "comment": "",
       "atlas_no": 4,
-      "grid_idx": 0
+      "grid_idx": 1
     },
     {
       "name": "鈴珠ちぃ",
       "comment": "あなたと甘いひと時をすごしたいなっ♪",
       "atlas_no": 4,
-      "grid_idx": 1
+      "grid_idx": 2
     },
     {
       "name": "きょうか_",
       "comment": "にゃん！",
       "atlas_no": 4,
-      "grid_idx": 2
+      "grid_idx": 3
     },
     {
       "name": "Exia_えくしあ",
       "comment": "午前０時の鐘【コール】が鳴るまで",
       "atlas_no": 4,
-      "grid_idx": 3
+      "grid_idx": 4
     }
   ]
 }
