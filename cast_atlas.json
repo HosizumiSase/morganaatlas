@@ -230,7 +230,7 @@
     },
     {
       "name": "音寝ココ",
-      "comment": "モルガナ楽しめたかなぁ〜っ？？？またきてねっ！",
+      "comment": "またきてねっ！",
       "atlas_no": 2,
       "grid_idx": 2
     },
@@ -398,7 +398,7 @@
     },
     {
       "name": "Bear-EL-loco",
-      "comment": "暑くなってきたね～！夏は好き？",
+      "comment": "暑いよぉ〜…溶けてなくなりそう…",
       "atlas_no": 3,
       "grid_idx": 12
     },
@@ -434,7 +434,7 @@
     },
     {
       "name": "槇島さや",
-      "comment": "最近FH6にハマってます！",
+      "comment": "私より強いやつに会いに行く",
       "atlas_no": 4,
       "grid_idx": 0
     },
@@ -445,26 +445,26 @@
       "grid_idx": 1
     },
     {
-      "name": "鈴珠ちぃ",
-      "comment": "あなたと甘いひと時をすごしたいなっ♪",
-      "atlas_no": 4,
-      "grid_idx": 2
-    },
-    {
       "name": "きょうか_",
       "comment": "にゃん！",
       "atlas_no": 4,
-      "grid_idx": 3
+      "grid_idx": 2
     },
     {
       "name": "Exia_えくしあ",
       "comment": "午前０時の鐘【コール】が鳴るまで",
       "atlas_no": 4,
-      "grid_idx": 4
+      "grid_idx": 3
     },
     {
       "name": "すぱーく",
       "comment": "んっ",
+      "atlas_no": 4,
+      "grid_idx": 4
+    },
+    {
+      "name": "鈴音れん",
+      "comment": "",
       "atlas_no": 4,
       "grid_idx": 5
     }
