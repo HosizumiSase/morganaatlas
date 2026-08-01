@@ -445,28 +445,34 @@
       "grid_idx": 1
     },
     {
+      "name": "星凪シロン",
+      "comment": "",
+      "atlas_no": 4,
+      "grid_idx": 2
+    },
+    {
       "name": "きょうか_",
       "comment": "にゃん！",
       "atlas_no": 4,
-      "grid_idx": 2
+      "grid_idx": 3
     },
     {
       "name": "Exia_えくしあ",
       "comment": "午前０時の鐘【コール】が鳴るまで",
       "atlas_no": 4,
-      "grid_idx": 3
+      "grid_idx": 4
     },
     {
       "name": "すぱーく",
       "comment": "んっ",
       "atlas_no": 4,
-      "grid_idx": 4
+      "grid_idx": 5
     },
     {
       "name": "鈴音れん",
       "comment": "",
       "atlas_no": 4,
-      "grid_idx": 5
+      "grid_idx": 6
     }
   ]
 }
