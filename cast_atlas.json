@@ -404,7 +404,7 @@
     },
     {
       "name": "みみみどり",
-      "comment": "最近外国圏の方とV睡したんですけど、「もうおきるね」って言いたいときなんて言えばいいのかわからなかったので「Im sleep end.」って言いました。通じました。",
+      "comment": "森にゆかりがあることが多いんですよね。最近。なんでなんですかね",
       "atlas_no": 3,
       "grid_idx": 13
     },
@@ -445,34 +445,40 @@
       "grid_idx": 1
     },
     {
+      "name": "そいんす",
+      "comment": "初出勤がんばります！",
+      "atlas_no": 4,
+      "grid_idx": 2
+    },
+    {
       "name": "星凪シロン",
       "comment": "",
       "atlas_no": 4,
-      "grid_idx": 2
+      "grid_idx": 3
     },
     {
       "name": "きょうか_",
       "comment": "にゃん！",
       "atlas_no": 4,
-      "grid_idx": 3
+      "grid_idx": 4
     },
     {
       "name": "Exia_えくしあ",
       "comment": "午前０時の鐘【コール】が鳴るまで",
       "atlas_no": 4,
-      "grid_idx": 4
+      "grid_idx": 5
     },
     {
       "name": "すぱーく",
       "comment": "んっ",
       "atlas_no": 4,
-      "grid_idx": 5
+      "grid_idx": 6
     },
     {
       "name": "鈴音れん",
       "comment": "",
       "atlas_no": 4,
-      "grid_idx": 6
+      "grid_idx": 7
     }
   ]
 }
