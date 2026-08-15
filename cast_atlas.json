@@ -362,7 +362,7 @@
     },
     {
       "name": "ミソティア",
-      "comment": "最近料理再現系ユーチューーバーにハマりました。一番好きな動画は醤油を作ろうとして納豆できちゃった動画が好きです。",
+      "comment": "",
       "atlas_no": 3,
       "grid_idx": 6
     },
@@ -433,52 +433,58 @@
       "grid_idx": 17
     },
     {
+      "name": "あどさんだー",
+      "comment": "",
+      "atlas_no": 4,
+      "grid_idx": 0
+    },
+    {
       "name": "槇島さや",
       "comment": "私より強いやつに会いに行く",
       "atlas_no": 4,
-      "grid_idx": 0
+      "grid_idx": 1
     },
     {
       "name": "lσler",
       "comment": "",
       "atlas_no": 4,
-      "grid_idx": 1
+      "grid_idx": 2
     },
     {
       "name": "そいんす",
       "comment": "初出勤がんばります！",
       "atlas_no": 4,
-      "grid_idx": 2
+      "grid_idx": 3
     },
     {
       "name": "星凪シロン",
       "comment": "",
       "atlas_no": 4,
-      "grid_idx": 3
+      "grid_idx": 4
     },
     {
       "name": "きょうか_",
       "comment": "にゃん！",
       "atlas_no": 4,
-      "grid_idx": 4
+      "grid_idx": 5
     },
     {
       "name": "Exia_えくしあ",
       "comment": "午前０時の鐘【コール】が鳴るまで。",
       "atlas_no": 4,
-      "grid_idx": 5
+      "grid_idx": 6
     },
     {
       "name": "すぱーく",
       "comment": "んっ",
       "atlas_no": 4,
-      "grid_idx": 6
+      "grid_idx": 7
     },
     {
       "name": "鈴音れん",
       "comment": "",
       "atlas_no": 4,
-      "grid_idx": 7
+      "grid_idx": 8
     }
   ]
 }
