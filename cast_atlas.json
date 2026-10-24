@@ -98,7 +98,7 @@
     },
     {
       "name": "かりおん",
-      "comment": "",
+      "comment": "焼き鳥(ねぎま、ぼんじり、もも)一本150円",
       "atlas_no": 0,
       "grid_idx": 16
     },
@@ -145,346 +145,340 @@
       "grid_idx": 5
     },
     {
-      "name": "ろろみroromi",
-      "comment": "レアキャラ",
-      "atlas_no": 1,
-      "grid_idx": 6
-    },
-    {
       "name": "∗Norysio＠星織∗",
       "comment": "",
       "atlas_no": 1,
-      "grid_idx": 7
+      "grid_idx": 6
     },
     {
       "name": "てら_tera-",
       "comment": "やほ～！たのしくまいぺーすにすごそ～～～💜",
       "atlas_no": 1,
-      "grid_idx": 8
+      "grid_idx": 7
     },
     {
       "name": "るぐりあ",
       "comment": "",
       "atlas_no": 1,
-      "grid_idx": 9
+      "grid_idx": 8
     },
     {
       "name": "safim -サフィム-",
       "comment": "",
       "atlas_no": 1,
-      "grid_idx": 10
+      "grid_idx": 9
     },
     {
       "name": "風花もゆ",
       "comment": "",
       "atlas_no": 1,
-      "grid_idx": 11
+      "grid_idx": 10
     },
     {
       "name": "畑乃だいず",
       "comment": "清楚？そこに無ければ無いですね",
       "atlas_no": 1,
-      "grid_idx": 12
+      "grid_idx": 11
     },
     {
       "name": "イケスレ",
       "comment": "",
       "atlas_no": 1,
-      "grid_idx": 13
+      "grid_idx": 12
     },
     {
       "name": "ゆにぃ。",
       "comment": "",
       "atlas_no": 1,
-      "grid_idx": 14
+      "grid_idx": 13
     },
     {
       "name": "内隈ちなみ",
       "comment": "",
       "atlas_no": 1,
-      "grid_idx": 15
+      "grid_idx": 14
     },
     {
       "name": "天羽 ねあ",
       "comment": "バナナのナス、バナナス",
       "atlas_no": 1,
-      "grid_idx": 16
+      "grid_idx": 15
     },
     {
       "name": "Megane256",
       "comment": "",
       "atlas_no": 1,
-      "grid_idx": 17
+      "grid_idx": 16
     },
     {
       "name": "chise_黒崎チセ",
       "comment": "お手柔らかにお願いします🙌",
-      "atlas_no": 2,
-      "grid_idx": 0
+      "atlas_no": 1,
+      "grid_idx": 17
     },
     {
       "name": "LOVE OTOTSUKI",
       "comment": "",
       "atlas_no": 2,
-      "grid_idx": 1
+      "grid_idx": 0
     },
     {
       "name": "音寝ココ",
       "comment": "またきてねっ！",
       "atlas_no": 2,
-      "grid_idx": 2
+      "grid_idx": 1
     },
     {
       "name": "ときあめ",
       "comment": "サメです🦈かぷかぷしちゃうぞ🦈",
       "atlas_no": 2,
-      "grid_idx": 3
+      "grid_idx": 2
     },
     {
       "name": "kiyosumi",
       "comment": "",
       "atlas_no": 2,
-      "grid_idx": 4
+      "grid_idx": 3
     },
     {
       "name": "玄月マイヤ",
       "comment": "おっきいお姉さんに悪戯されてみる？",
       "atlas_no": 2,
-      "grid_idx": 5
+      "grid_idx": 4
     },
     {
       "name": "霊柩ファントム",
       "comment": "今日はいつもの水色のドレスで！",
       "atlas_no": 2,
-      "grid_idx": 6
+      "grid_idx": 5
     },
     {
       "name": "itucake（いつけーき）",
       "comment": "",
       "atlas_no": 2,
-      "grid_idx": 7
+      "grid_idx": 6
     },
     {
       "name": "ホワイト企業",
       "comment": "スーパーリアル麻雀VR買え買え買え買え買え買え🀄️",
       "atlas_no": 2,
-      "grid_idx": 8
+      "grid_idx": 7
     },
     {
       "name": "ひらくぅ。",
       "comment": "最近、LOLにはまってます",
       "atlas_no": 2,
-      "grid_idx": 9
+      "grid_idx": 8
     },
     {
       "name": "九重しの",
       "comment": "",
       "atlas_no": 2,
-      "grid_idx": 10
+      "grid_idx": 9
     },
     {
       "name": "マルコ。",
       "comment": "",
       "atlas_no": 2,
-      "grid_idx": 11
+      "grid_idx": 10
     },
     {
       "name": "水煙 らず",
       "comment": "Morgana清楚担当",
       "atlas_no": 2,
-      "grid_idx": 12
+      "grid_idx": 11
     },
     {
       "name": "吉田ささめ",
       "comment": "鮫が大好きなささめですよ～🦈",
       "atlas_no": 2,
-      "grid_idx": 13
+      "grid_idx": 12
     },
     {
       "name": "dan-tyo",
       "comment": "んちょです💛あなたをとろとろに甘やかしちゃう・・・かも？",
       "atlas_no": 2,
-      "grid_idx": 14
+      "grid_idx": 13
     },
     {
       "name": "りゅ～ず",
       "comment": "",
       "atlas_no": 2,
-      "grid_idx": 15
+      "grid_idx": 14
     },
     {
       "name": "海月ばじ",
       "comment": "ばじばじしてきたぁ〜！！",
       "atlas_no": 2,
-      "grid_idx": 16
+      "grid_idx": 15
     },
     {
       "name": "れのるた",
       "comment": "",
       "atlas_no": 2,
-      "grid_idx": 17
+      "grid_idx": 16
     },
     {
       "name": "arushiro",
       "comment": "クールぶりたいドジっ子お姉さん",
-      "atlas_no": 3,
-      "grid_idx": 0
+      "atlas_no": 2,
+      "grid_idx": 17
     },
     {
       "name": "xeksy（ゼクシィ）",
       "comment": "嘘が下手すぎて人狼できない系女子",
       "atlas_no": 3,
-      "grid_idx": 1
+      "grid_idx": 0
     },
     {
       "name": "フィーネ_feine",
       "comment": "たくさんのかわいいをお届けします！",
       "atlas_no": 3,
-      "grid_idx": 2
+      "grid_idx": 1
     },
     {
       "name": "Cielଳ",
       "comment": "",
       "atlas_no": 3,
-      "grid_idx": 3
+      "grid_idx": 2
     },
     {
       "name": "はくと兎",
       "comment": "",
       "atlas_no": 3,
-      "grid_idx": 4
+      "grid_idx": 3
     },
     {
       "name": "€cho",
       "comment": "",
       "atlas_no": 3,
-      "grid_idx": 5
+      "grid_idx": 4
     },
     {
       "name": "ミソティア",
       "comment": "",
       "atlas_no": 3,
-      "grid_idx": 6
+      "grid_idx": 5
     },
     {
       "name": "た～し～",
       "comment": "今夜もあなたとご一緒させてください",
       "atlas_no": 3,
-      "grid_idx": 7
+      "grid_idx": 6
     },
     {
       "name": "えりえり",
       "comment": "「前に出ます」「前に出ます」「損傷甚大」「助けてください」「助かりました」「次もよろしく」",
       "atlas_no": 3,
-      "grid_idx": 8
+      "grid_idx": 7
     },
     {
       "name": "シアン -shian-",
       "comment": "ぜひともよろしくお願いしますね！",
       "atlas_no": 3,
-      "grid_idx": 9
+      "grid_idx": 8
     },
     {
       "name": "潤海かな",
       "comment": "",
       "atlas_no": 3,
-      "grid_idx": 10
+      "grid_idx": 9
     },
     {
       "name": "護砕よーじょ",
       "comment": "履いてます",
       "atlas_no": 3,
-      "grid_idx": 11
+      "grid_idx": 10
     },
     {
       "name": "Bear-EL-loco",
       "comment": "気温と気圧の変化でだるだるなのだ…",
       "atlas_no": 3,
-      "grid_idx": 12
+      "grid_idx": 11
     },
     {
       "name": "みみみどり",
       "comment": "森にゆかりがあることが多いんですよね。最近。なんでなんですかね",
       "atlas_no": 3,
-      "grid_idx": 13
+      "grid_idx": 12
     },
     {
       "name": "音羽ネオン",
       "comment": "生粋の関西人 26.4/13ﾃﾞﾋﾞｭ~ 同期トリオ shino3ﾁｬ クウﾁｬをよろしくね！",
       "atlas_no": 3,
-      "grid_idx": 14
+      "grid_idx": 13
     },
     {
       "name": "Shino_3",
       "comment": "今夜もモルガナで乾杯、しよ？",
       "atlas_no": 3,
-      "grid_idx": 15
+      "grid_idx": 14
     },
     {
       "name": "クウ_ただのきつね",
       "comment": "貴方の素敵な所、たくさん褒めさせてくださいね？",
       "atlas_no": 3,
-      "grid_idx": 16
+      "grid_idx": 15
     },
     {
       "name": "ぽん！！",
       "comment": "",
       "atlas_no": 3,
-      "grid_idx": 17
+      "grid_idx": 16
     },
     {
       "name": "あどさんだー",
       "comment": "",
-      "atlas_no": 4,
-      "grid_idx": 0
+      "atlas_no": 3,
+      "grid_idx": 17
     },
     {
       "name": "槇島さや",
       "comment": "私より強いやつに会いに行く",
       "atlas_no": 4,
-      "grid_idx": 1
+      "grid_idx": 0
     },
     {
       "name": "lσler",
       "comment": "",
       "atlas_no": 4,
-      "grid_idx": 2
+      "grid_idx": 1
     },
     {
       "name": "そいんす",
       "comment": "がんばります！",
       "atlas_no": 4,
-      "grid_idx": 3
+      "grid_idx": 2
     },
     {
       "name": "星凪シロン",
       "comment": "",
       "atlas_no": 4,
-      "grid_idx": 4
+      "grid_idx": 3
     },
     {
       "name": "きょうか_",
       "comment": "にゃん！",
       "atlas_no": 4,
-      "grid_idx": 5
+      "grid_idx": 4
     },
     {
       "name": "Exia_えくしあ",
       "comment": "午前０時の鐘【コール】が鳴るまで。",
       "atlas_no": 4,
-      "grid_idx": 6
+      "grid_idx": 5
     },
     {
       "name": "すぱーく",
       "comment": "んっ",
       "atlas_no": 4,
-      "grid_idx": 7
+      "grid_idx": 6
     },
     {
       "name": "鈴音れん",
       "comment": "",
       "atlas_no": 4,
-      "grid_idx": 8
+      "grid_idx": 7
     }
   ]
 }
