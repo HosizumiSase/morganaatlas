@@ -479,6 +479,12 @@
       "comment": "",
       "atlas_no": 4,
       "grid_idx": 7
+    },
+    {
+      "name": "う る な",
+      "comment": "一緒に楽しい時間を過ごしてもらえたら嬉しいな",
+      "atlas_no": 4,
+      "grid_idx": 8
     }
   ]
 }
